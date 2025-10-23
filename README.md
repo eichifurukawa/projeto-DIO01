@@ -16,12 +16,12 @@ Implementar, documentar e compartilhar um projeto prático utilizando  **Kali Li
  - Máquina Virtual de **Kali Linux** configurada com Placa de Rede **Host-only**
 <img src="img\02.png">
  - Logar no Metasploitable com: 
- ```console
+ ```bash
  metasploitable login: msfadmin
  Password: msfadmin
  ```
  - Executar o comando para a obtenção do endereço IP:
- ```console
+ ```bash
  ip a
  ```
 <img src="img\03.png">
